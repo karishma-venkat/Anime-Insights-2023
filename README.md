@@ -6,10 +6,8 @@
 3. [Dashboard Overview](#dashboard-overview)
 4. [Features & Functionality](#features--functionality)
 5. [Data Insights](#data-insights)
-6. [Installation & Setup](#installation--setup)
-7. [Usage Guide](#usage-guide)
-8. [Business Applications](#business-applications)
-9. [Future Enhancements](#future-enhancements)
+6. [Business Applications](#business-applications)
+7. [Future Enhancements](#future-enhancements)
 
 ## 🎮 Introduction
 The Anime Insights Dashboard is a powerful analytical tool designed to provide comprehensive insights into the anime industry's trends, viewership patterns, and market dynamics for 2023.

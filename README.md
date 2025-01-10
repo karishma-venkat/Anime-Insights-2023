@@ -89,13 +89,16 @@ Slice of Life██████──── 65%
 Horror      ████────── 45%
 ```
 
-### Seasonal Trends
-| Season | Top Genre | Avg. Rating | Viewer Count |
-|--------|-----------|-------------|--------------|
-| Winter | Fantasy | 8.5 | 15M |
-| Spring | Action | 8.8 | 18M |
-| Summer | Romance | 8.2 | 16M |
-| Fall | Drama | 8.7 | 17M |
+### Strategic Insights
+The dashboard addresses industry needs by providing:
+```
+📊 Key Metrics Tracked:
+- Genre preferences
+- Seasonal trends
+- Audience engagement
+- Release patterns
+- Platform performance
+```
 
 
 ## 💼 Business Applications
@@ -116,87 +119,3 @@ Horror      ████────── 45%
 - [ ] Real-time social media integration
 - [ ] Personalized recommendation engine
 
-# Anime Insights Of 2023
-
-## Dataset
-[Top 250 Anime 2023 Dataset](https://www.kaggle.com/datasets/gianinamariapetrascu/top-250-anime-2023)
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Project Context](#project-context)
-3. [Data and Methodology](#data-and-methodology)
-4. [Dashboard Features](#dashboard-features)
-5. [Insights and Analysis](#insights-and-analysis)
-6. [Business Applications](#business-applications)
-7. [Future Enhancements](#future-enhancements)
-
-## Introduction
-The Anime Ratings Dashboard is a comprehensive analytical tool designed to provide strategic insights into the anime industry. It transforms complex data into actionable intelligence by:
-- Tracking release patterns
-- Analyzing genre trends
-- Monitoring performance indicators
-- Supporting strategic decision-making
-
-### Key Benefits
-| Stakeholder | Benefits |
-|-------------|----------|
-| Producers | Trend analysis for content development |
-| Marketers | Audience preference insights |
-| Analysts | Real-time market intelligence |
-
-## Project Context
-The anime industry is experiencing significant growth due to:
-
-### Market Dynamics
-- Expansion of streaming platforms
-- Diversifying global audience
-- Strategic content acquisition
-
-### Notable 2024 Releases
-| Series | Arc/Season |
-|--------|------------|
-| Attack on Titan | Final Season Part 4 |
-| Jujutsu Kaisen | Shibuya Incident Arc |
-| Demon Slayer | Swordsmith Village Arc |
-| Spy x Family | Ongoing |
-
-### Strategic Insights
-The dashboard addresses industry needs by providing:
-```
-📊 Key Metrics Tracked:
-- Genre preferences
-- Seasonal trends
-- Audience engagement
-- Release patterns
-- Platform performance
-```
-
-### Industry Patterns
-| Season | Trend |
-|--------|-------|
-| Winter | Increased fantasy/isekai popularity |
-| Spring | Action genre dominance |
-| Summer | Slice-of-life content surge |
-| Fall | Mixed genre consumption |
-
-## Future Development
-Planned enhancements include:
-- Real-time data integration
-- Advanced genre analysis
-- Platform comparison tools
-- Audience behavior tracking
-- Release optimization metrics
-
-## Project Status
-```mermaid
-graph LR
-    A[Data Collection] --> B[Analysis]
-    B --> C[Dashboard Development]
-    C --> D[Testing]
-    D --> E[Deployment]
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style E fill:#bbf,stroke:#333,stroke-width:2px
-```
-
----
-*Note: This dashboard is designed to support strategic decision-making in the anime industry through data-driven insights and analysis.*

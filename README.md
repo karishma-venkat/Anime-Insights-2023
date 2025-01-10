@@ -46,13 +46,19 @@ graph TD
 
 ┌────────────────────┐  ┌────────────────────┐
 │  Rating Trends     │  │  Genre Analysis    │
-│  [Line Chart]      │  │  [Pie Chart]       │
+│  [Donut Chart]     │  │  [Density Chart]   │
 └────────────────────┘  └────────────────────┘
 
 ┌────────────────────┐  ┌────────────────────┐
-│  Seasonal Patterns │  │  Viewer Demographics│
-│  [Heat Map]        │  │  [Bar Chart]       │
+│  Seasonal Patterns │  │ Popularity pattern │
+│  [Bar Chart]       │  │  [Bubble Chart]    │
 └────────────────────┘  └────────────────────┘
+
+┌────────────────────────────────────────────┐
+│            Studio Labels                   │
+│              (Heat Maps)                   │
+└────────────────────────────────────────────┘
+
 ```
 
 ### Interactive Features
